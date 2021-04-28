@@ -6,5 +6,7 @@ experiment 1: prediction of interview scores using static embeddings(glove, fast
 
 experiment 2: prediction of interview scores using BERT modeling(4 different combinations of output layers)
 
+Metric for both experiments is correlation coefficient.
+
 author: Hyewon Jang
 affiliation: Dept of Linguistics, University of Konstanz, Germany
